@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+<!--    my resources
+-->
+
+    <color name="app_background">#080808</color>
+    <color name="keyboard_background">#121212</color>
+    <color name="red_letters">#DC2A14</color>
+    <color name="blue_letters">#2AAFE0</color>
+    <color name="white_letters">#E5E5E5</color>
+    <color name="gray_letters">#404040</color>
+
+    <color name="gray_background">#1e1e1e</color>
+
+</resources>

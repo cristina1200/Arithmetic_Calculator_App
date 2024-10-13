@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_title">Calculator</string>
+    <string name="expression_text">0</string>
+    <string name="ac_text">AC</string>
+    <string name="c_text">C</string>
+    <string name="rest_text">%</string>
+    <string name="slesh_text">/</string>
+    <string name="one_text">1</string>
+    <string name="two_text">2</string>
+    <string name="three_text">3</string>
+    <string name="four_text">4</string>
+    <string name="five_text">5</string>
+    <string name="six_text">6</string>
+    <string name="seven_text">7</string>
+    <string name="eight_text">8</string>
+    <string name="nine_text">9</string>
+    <string name="times_text">x</string>
+    <string name="minus_text">-</string>
+    <string name="plus_text">+</string>
+    <string name="zero_text">0</string>
+    <string name="zerozero_text">00</string>
+    <string name="dot_text">.</string>
+    <string name="equal_text">=</string>
+</resources>
